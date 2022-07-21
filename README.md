@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChommyPrecious
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning R, SQL
-- 💞️ I’m looking to collaborate on Data extraction, ETL, and Data Entry projects
+- 🌱 I’m currently learning R, SQL, and python for analysis.
+- 💞️ I’m looking to collaborate on Data analysis, ETL, and Data Entry projects.
 - 📫 How to reach me chiomaprecious50@gmail.com
 
 <!---
